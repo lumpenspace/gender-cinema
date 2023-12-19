@@ -29,6 +29,12 @@ def calculate_gender_score(rank_a, rank_b):
 
     return (normalized_b - normalized_a) 
 
+def normalize_title(title):
+    """ Normalize the title to a format that can be used for comparison """
+    # replace all non-alphanumeric characters with empty string regex
+    # return re.sub(r'\W+', '', title).lower()
+    return title.lower().replace(" ", "_").sub(r'(\W+|_)', '', title).lower()
+
 def parse_movies_with_gender_score(input_list):    
 
     parsed_data = []
