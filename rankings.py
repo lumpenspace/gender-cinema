@@ -33,25 +33,23 @@ def parse_movies_with_gender_score(input_list):
 
     parsed_data = []
     for item in input_list:
+        item = item.replace("> 250", "250")
         split_item = item.split()
         year = split_item[0]
-        ranking, ranking_women, ranking_men = [int(ranking) for ranking in split_item[-4:-1]]
+        ranking_women, ranking_men = [int(ranking) for ranking in split_item[-3:-1]]
         title = ' '.join(split_item[1:-4])
         gender_score = calculate_gender_score(ranking_women, ranking_men)
 
-        parsed_data.append([year, title, ranking, ranking_women, ranking_men, gender_score])
+        parsed_data.append([year, title, ranking_women, ranking_men, gender_score])
 
-    df = pd.DataFrame(parsed_data, columns= ['year', 'title', 'ranking', 'ranking_women', 'ranking_men', 'gender_score'])
+    df = pd.DataFrame(parsed_data, columns= ['year', 'title', 'ranking_women', 'ranking_men', 'gender_score'])
     return df
 
 
 def main():
     json_input = open_json_file('preferences_table')
     parsed = parse_movies_with_gender_score(json_input)
-    print(parsed.head(39))
-
-    saved = save_json_file('parsed_pref_table', parsed.to_dict('records'))
-    print(saved)
+    parsed.to_csv('data/preferences_table_ready.csv', index=False)
 
 if __name__ == "__main__":
     main()
