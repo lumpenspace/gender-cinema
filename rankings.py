@@ -1,4 +1,5 @@
 import json
+import re
 import pandas as pd
 
 def open_path(name, mode, type="json"):
@@ -31,9 +32,8 @@ def calculate_gender_score(rank_a, rank_b):
 
 def normalize_title(title):
     """ Normalize the title to a format that can be used for comparison """
-    # replace all non-alphanumeric characters with empty string regex
-    # return re.sub(r'\W+', '', title).lower()
-    return title.lower().replace(" ", "_").sub(r'(\W+|_)', '', title).lower()
+    title = title.lower().replace(" ", "_")
+    return re.sub(r'(\W+|_)', '', title)
 
 def parse_movies_with_gender_score(input_list):    
 
@@ -44,11 +44,12 @@ def parse_movies_with_gender_score(input_list):
         year = split_item[0]
         ranking_women, ranking_men = [int(ranking) for ranking in split_item[-3:-1]]
         title = ' '.join(split_item[1:-4])
+        title_normalized = normalize_title(title)
         gender_score = calculate_gender_score(ranking_women, ranking_men)
 
-        parsed_data.append([year, title, ranking_women, ranking_men, gender_score])
+        parsed_data.append([year, title, title_normalized, ranking_women, ranking_men, gender_score])
 
-    df = pd.DataFrame(parsed_data, columns= ['year', 'title', 'ranking_women', 'ranking_men', 'gender_score'])
+    df = pd.DataFrame(parsed_data, columns= ['year', 'title', 'title_normalized', 'ranking_women', 'ranking_men', 'gender_score'])
     return df
 
 
