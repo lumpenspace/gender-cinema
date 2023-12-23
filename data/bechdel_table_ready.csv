@@ -1,0 +1,500 @@
+year,title,title_normalized,ranking_women,ranking_men,gender_score,binary,clean_test,test
+1972,the godfather,thegodfather,10,2,0.01603206412825653,FAIL,notalk,notalk-disagree
+2008,the dark knight,thedarkknight,3,3,0.0,FAIL,dubious,dubious-disagree
+2003,the lord of the rings: the return of the king,thelordoftheringsthereturnoftheking,2,4,-0.004008016032064132,FAIL,notalk,notalk
+1993,schindler’s list,schindlerslist,6,11,-0.01002004008016033,,,
+1999,fight club,fightclub,5,8,-0.006012024048096198,FAIL,notalk,notalk-disagree
+2001,the lord of the rings: the fellowship of the ring,thelordoftheringsthefellowshipofthering,7,10,-0.006012024048096198,FAIL,notalk,notalk-disagree
+1957,12 angry men,12angrymen,27,7,0.04008016032064132,,,
+1974,the godfather: part ii,thegodfatherpartii,22,5,0.034068136272545124,PASS,ok,ok
+2010,inception,inception,8,6,0.004008016032064132,FAIL,dubious,dubious-disagree
+1994,forrest gump,forrestgump,9,13,-0.008016032064128265,FAIL,notalk,notalk-disagree
+2002,the lord of the rings: the two towers,thelordoftheringsthetwotowers,11,14,-0.006012024048096198,FAIL,notalk,notalk-disagree
+1994,the lion king,thelionking,4,29,-0.05010020040080165,FAIL,notalk,notalk-disagree
+1994,pulp fiction,pulpfiction,15,9,0.012024048096192397,PASS,ok,ok-disagree
+2014,interstellar,interstellar,25,15,0.02004008016032066,,,
+1999,the green mile,thegreenmile,12,28,-0.03206412825651295,FAIL,notalk,notalk-disagree
+1975,one flew over the cuckoo’s nest,oneflewoverthecuckoosnest,24,19,0.01002004008016033,,,
+1966,"the good, the bad and the ugly",thegoodthebadandtheugly,115,12,0.2064128256513026,,,
+2006,the prestige,theprestige,26,16,0.02004008016032066,FAIL,notalk,notalk
+1998,american history x,americanhistoryx,17,27,-0.02004008016032066,FAIL,men,men-disagree
+2012,the dark knight rises,thedarkknightrises,23,22,0.002004008016032066,FAIL,notalk,notalk-disagree
+1997,life is beautiful,lifeisbeautiful,16,41,-0.05010020040080154,,,
+1980,star wars: episode v – the empire strikes back,starwarsepisodevtheempirestrikesback,41,17,0.048096192384769476,FAIL,nowomen,nowomen-disagree
+1994,leon: the professional,leontheprofessional,21,37,-0.03206412825651295,,,
+2002,city of god,cityofgod,64,20,0.0881763527054108,,,
+1995,se7en,se7en,28,23,0.01002004008016022,FAIL,notalk,notalk
+2001,spirited away,spiritedaway,13,56,-0.08617234468937873,,,
+1991,the silence of the lambs,thesilenceofthelambs,20,33,-0.02605210420841675,PASS,ok,ok-disagree
+2006,the departed,thedeparted,35,26,0.018036072144288484,FAIL,notalk,notalk
+1990,goodfellas,goodfellas,71,18,0.1062124248496994,FAIL,men,men-disagree
+2011,the intouchables,theintouchables,19,52,-0.06613226452905807,,,
+2014,whiplash,whiplash,54,30,0.04809619238476959,,,
+2000,gladiator,gladiator,44,24,0.04008016032064121,FAIL,nowomen,nowomen
+2012,django unchained,djangounchained,29,31,-0.004008016032064021,FAIL,notalk,notalk-disagree
+2002,the pianist,thepianist,31,53,-0.044088176352705455,,,
+1946,it’s a wonderful life,itsawonderfullife,56,51,0.01002004008016033,,,
+1960,psycho,psycho,55,40,0.030060120240480992,,,
+1977,star wars: episode iv – a new hope,starwarsepisodeivanewhope,48,32,0.03206412825651306,,,
+2009,inglourious basterds,inglouriousbasterds,32,43,-0.022044088176352727,FAIL,dubious,dubious-disagree
+1998,saving private ryan,savingprivateryan,70,25,0.09018036072144286,FAIL,nowomen,nowomen
+1995,the usual suspects,theusualsuspects,58,36,0.044088176352705455,FAIL,notalk,notalk
+1999,the matrix,thematrix,62,21,0.0821643286573146,PASS,ok,ok-disagree
+2000,memento,memento,57,34,0.04609218436873752,FAIL,notalk,notalk
+1942,casablanca,casablanca,73,42,0.06212424849699405,,,
+1999,american beauty,americanbeauty,51,35,0.03206412825651306,PASS,ok,ok
+1985,back to the future,backtothefuture,49,46,0.006012024048096198,FAIL,notalk,notalk-disagree
+2001,a beautiful mind,abeautifulmind,34,68,-0.06813627254509025,FAIL,notalk,notalk
+1954,rear window,rearwindow,80,60,0.04008016032064132,,,
+2000,requiem for a dream,requiemforadream,50,49,0.002004008016032066,PASS,ok,ok
+2011,harry potter and the deathly hallows: part 2,harrypotterandthedeathlyhallowspart2,14,126,-0.22444889779559107,FAIL,notalk,notalk-disagree
+2006,the lives of others,thelivesofothers,86,78,0.01603206412825653,,,
+2010,shutter island,shutterisland,39,59,-0.04008016032064132,FAIL,notalk,notalk
+2008,wall-e,walle,42,62,-0.04008016032064132,FAIL,notalk,notalk-disagree
+2004,eternal sunshine of the spotless mind,eternalsunshineofthespotlessmind,38,66,-0.05611222444889785,FAIL,men,men
+1980,the shining,theshining,61,47,0.028056112224448926,FAIL,men,men-disagree
+1997,good will hunting,goodwillhunting,60,48,0.024048096192384794,FAIL,nowomen,nowomen-disagree
+1971,a clockwork orange,aclockworkorange,79,50,0.05811623246492981,,,
+2001,amelie,amelie,30,90,-0.12024048096192397,,,
+1954,seven samurai,sevensamurai,336,39,0.5951903807615231,,,
+1983,star wars: episode vi – return of the jedi,starwarsepisodevireturnofthejedi,87,63,0.048096192384769476,FAIL,nowomen,nowomen-disagree
+1992,reservoir dogs,reservoirdogs,94,64,0.06012024048096187,FAIL,nowomen,nowomen
+2017,coco,coco,209,166,0.08617234468937873,,,
+1988,cinema paradiso,cinemaparadiso,165,97,0.13627254509018039,,,
+1979,apocalypse now,apocalypsenow,219,38,0.36272545090180364,FAIL,nowomen,nowomen-disagree
+1940,the great dictator,thegreatdictator,262,101,0.3226452905811623,,,
+1950,sunset boulevard,sunsetboulevard,190,108,0.1643286573146293,,,
+1931,city lights,citylights,294,92,0.404809619238477,,,
+1997,princess mononoke,princessmononoke,118,100,0.03607214428857719,,,
+2015,room,room,82,139,-0.11422845691382766,,,
+2003,pirates of the caribbean: the curse of the black pearl,piratesofthecaribbeanthecurseoftheblackpearl,36,113,-0.15430861723446898,FAIL,men,men-disagree
+2004,howl’s moving castle,howlsmovingcastle,43,216,-0.3466933867735471,,,
+1962,to kill a mockingbird,tokillamockingbird,102,135,-0.06613226452905818,,,
+2009,up,up,37,117,-0.16032064128256518,FAIL,notalk,notalk
+2014,gone girl,gonegirl,81,70,0.022044088176352616,,,
+2010,toy story 3,toystory3,66,82,-0.03206412825651306,FAIL,dubious,dubious-disagree
+1936,modern times,moderntimes,248,96,0.3046092184368737,,,
+1988,grave of the fireflies,graveofthefireflies,159,133,0.05210420841683361,,,
+2006,pan’s labyrinth,panslabyrinth,74,91,-0.03406813627254501,,,
+2016,hacksaw ridge,hacksawridge,161,124,0.07414829659318634,,,
+1968,2001: a space odyssey,2001aspaceodyssey,195,54,0.282565130260521,,,
+2007,into the wild,intothewild,84,95,-0.022044088176352616,FAIL,notalk,notalk
+1958,vertigo,vertigo,154,87,0.13426853707414832,,,
+2015,inside out,insideout,78,107,-0.05811623246492981,,,
+2005,batman begins,batmanbegins,106,58,0.09619238476953906,FAIL,notalk,notalk
+1975,monty python and the holy grail,montypythonandtheholygrail,123,104,0.038076152304609256,FAIL,men,men
+2009,3 idiots,3idiots,203,93,0.22044088176352705,,,
+2003,oldeuboi,oldeuboi,171,73,0.19639278557114226,,,
+1964,dr. strangelove or: how i learned to stop worrying and love the bomb,drstrangeloveorhowilearnedtostopworryingandlovethebomb,236,57,0.3587174348697395,,,
+1991,terminator 2,terminator2,178,44,0.26853707414829664,,,
+1959,north by northwest,northbynorthwest,205,99,0.2124248496993988,,,
+1968,once upon a time in the west,onceuponatimeinthewest,447,55,0.7855711422845691,,,
+1981,raiders of the lost ark,raidersofthelostark,131,65,0.13226452905811625,FAIL,nowomen,nowomen-disagree
+1995,toy story,toystory,85,80,0.01002004008016022,FAIL,notalk,notalk-disagree
+1952,singin’ in the rain,singinintherain,110,170,-0.12024048096192386,,,
+2016,la la land,lalaland,122,86,0.07214428857715427,,,
+1979,alien,alien,151,67,0.16833667334669344,PASS,ok,ok
+1941,citizen kane,citizenkane,188,74,0.22845691382765532,,,
+2002,catch me if you can,catchmeifyoucan,97,81,0.03206412825651306,FAIL,notalk,notalk-disagree
+1983,scarface,scarface,181,69,0.22444889779559118,,,
+1976,taxi driver,taxidriver,164,71,0.18637274549098193,FAIL,notalk,notalk
+2014,the grand budapest hotel,thegrandbudapesthotel,65,128,-0.12625250501001994,,,
+1987,full metal jacket,fullmetaljacket,177,83,0.1883767535070141,,,
+2010,how to train your dragon,howtotrainyourdragon,47,165,-0.23647294589178358,PASS,ok,ok
+1984,amadeus,amadeus,128,121,0.014028056112224352,PASS,ok,ok-disagree
+2007,there will be blood,therewillbeblood,212,72,0.2805611222444889,FAIL,nowomen,nowomen-disagree
+2012,the avengers,theavengers,52,144,-0.18436873747494986,FAIL,notalk,notalk
+1984,once upon a time in america,onceuponatimeinamerica,337,88,0.4989979959919839,,,
+2013,the wolf of wall street,thewolfofwallstreet,158,45,0.22645290581162325,FAIL,notalk,notalk-disagree
+2005,v for vendetta,vforvendetta,76,112,-0.07214428857715427,PASS,ok,ok-disagree
+1939,gone with the wind,gonewiththewind,46,279,-0.46693386773547096,,,
+2003,kill bill: vol. 1,killbillvol1,89,114,-0.05010020040080165,PASS,ok,ok-disagree
+1995,braveheart,braveheart,141,61,0.16032064128256518,FAIL,men,men-disagree
+2003,finding nemo,findingnemo,53,151,-0.19639278557114237,FAIL,notalk,notalk-disagree
+1999,the sixth sense,thesixthsense,75,116,-0.0821643286573146,FAIL,dubious,dubious-disagree
+2011,the help,thehelp,33,245,-0.4248496993987977,PASS,ok,ok
+2015,star wars: the force awakens,starwarstheforceawakens,92,154,-0.12424849699398799,,,
+2015,mad max: fury road,madmaxfuryroad,135,79,0.1122244488977957,,,
+2000,snatch,snatch,144,76,0.13627254509018027,FAIL,nowomen,nowomen-disagree
+2016,dangal,dangal,649,195,0.9098196392785571,,,
+2016,zootopia,zootopia,95,187,-0.18436873747494986,,,
+2001,donnie darko,donniedarko,91,122,-0.06212424849699405,FAIL,dubious,dubious-disagree
+2008,gran torino,grantorino,121,120,0.002004008016032066,FAIL,men,men-disagree
+1989,indiana jones and the last crusade,indianajonesandthelastcrusade,156,84,0.14428857715430854,FAIL,nowomen,nowomen-disagree
+2012,jagten,jagten,183,141,0.08416833667334656,FAIL,men,men
+1988,my neighbor totoro,myneighbortotoro,112,183,-0.14228456913827647,,,
+1996,trainspotting,trainspotting,107,127,-0.04008016032064132,FAIL,men,men
+2013,12 years a slave,12yearsaslave,100,131,-0.06212424849699405,FAIL,notalk,notalk-disagree
+1959,some like it hot,somelikeithot,124,186,-0.12424849699398799,,,
+1973,the sting,thesting,284,143,0.282565130260521,FAIL,notalk,notalk
+2013,prisoners,prisoners,148,98,0.1002004008016032,PASS,ok,ok
+2017,logan,logan,193,103,0.18036072144288573,,,
+2016,your name,yourname,399,190,0.4188376753507014,,,
+2007,taare zameen par,taarezameenpar,448,138,0.62124248496994,,,
+2011,a separation,aseparation,242,125,0.2344689378757514,,,
+1997,titanic,titanic,45,188,-0.28657314629258523,PASS,ok,ok
+2011,warrior,warrior,213,134,0.1583166332665331,FAIL,notalk,notalk
+2017,dunkirk,dunkirk,192,145,0.094188376753507,,,
+2015,spotlight,spotlight,155,152,0.006012024048096198,,,
+1986,stand by me,standbyme,125,184,-0.11823647294589179,FAIL,nowomen,nowomen
+2014,x-men: days of future past,xmendaysoffuturepast,113,159,-0.09218436873747493,,,
+2004,kill bill: vol. 2,killbillvol2,116,157,-0.0821643286573146,,,
+2014,the imitation game,theimitationgame,69,209,-0.2805611222444889,,,
+2010,the king’s speech,thekingsspeech,59,206,-0.2945891783567135,,,
+1986,aliens,aliens,217,85,0.2645290581162325,PASS,ok,ok-disagree
+2004,downfall,downfall,288,115,0.3466933867735471,,,
+1998,"lock, stock and two smoking barrels",lockstockandtwosmokingbarrels,199,130,0.13827655310621245,FAIL,notalk,notalk
+1997,l.a. confidential,laconfidential,225,94,0.26252505010020044,FAIL,notalk,notalk
+2016,arrival,arrival,169,137,0.064128256513026,,,
+1957,paths of glory,pathsofglory,704,109,1.1923847695390781,,,
+2017,blade runner 2049,bladerunner2049,368,102,0.533066132264529,,,
+1991,beauty and the beast,beautyandthebeast,40,379,-0.6793587174348698,PASS,ok,ok-disagree
+2014,guardians of the galaxy,guardiansofthegalaxy,111,147,-0.07214428857715438,,,
+1962,lawrence of arabia,lawrenceofarabia,396,105,0.5831663326653307,,,
+1993,jurassic park,jurassicpark,150,118,0.064128256513026,PASS,ok,ok-disagree
+1927,metropolis,metropolis,331,182,0.2985971943887775,,,
+2016,deadpool,deadpool,126,155,-0.05811623246492992,,,
+2012,the hobbit: an unexpected journey,thehobbitanunexpectedjourney,90,192,-0.20440881763527052,FAIL,nowomen,nowomen-disagree
+2001,"monsters, inc.",monstersinc,77,196,-0.23847695390781565,FAIL,notalk,notalk-disagree
+1988,die hard,diehard,220,77,0.2865731462925851,PASS,ok,ok-disagree
+1989,dead poets society,deadpoetssociety,103,239,-0.27254509018036077,FAIL,notalk,notalk
+2010,black swan,blackswan,98,161,-0.12625250501002006,PASS,ok,ok-disagree
+2015,the martian,themartian,134,160,-0.05210420841683372,,,
+1957,witness for the prosecution,witnessfortheprosecution,476,229,0.4949899799599198,,,
+2004,hotel rwanda,hotelrwanda,176,181,-0.01002004008016033,,,
+2009,star trek,startrek,117,199,-0.1643286573146292,PASS,ok,ok-disagree
+2013,the hobbit: the desolation of smaug,thehobbitthedesolationofsmaug,109,205,-0.19238476953907813,FAIL,notalk,notalk-disagree
+2009,hachi: a dog’s tale,hachiadogstale,127,288,-0.3226452905811623,,,
+2017,"three billboards outside ebbing, missouri",threebillboardsoutsideebbingmissouri,351,204,0.2945891783567134,,,
+1981,das boot,dasboot,603,111,0.9859719438877756,FAIL,nowomen,nowomen
+1995,heat,heat,332,89,0.4869739478957916,,,
+1978,the deer hunter,thedeerhunter,346,153,0.3867735470941883,FAIL,notalk,notalk
+1980,the elephant man,theelephantman,261,177,0.16833667334669333,,,
+1931,m,m,465,167,0.5971943887775552,,,
+1950,all about eve,allabouteve,227,302,-0.15030060120240485,,,
+1921,the kid,thekid,459,249,0.42084168336673344,,,
+1944,double indemnity,doubleindemnity,433,169,0.5290581162324649,,,
+2013,her,her,194,106,0.1763527054108217,FAIL,men,men-disagree
+2009,mary and max,maryandmax,175,274,-0.19839679358717432,,,
+2017,thor: ragnarok,thorragnarok,200,260,-0.12024048096192375,,,
+2013,dallas buyers club,dallasbuyersclub,146,175,-0.05811623246492992,,,
+1960,the apartment,theapartment,322,189,0.2665330661322646,,,
+2008,in bruges,inbruges,239,140,0.19839679358717444,FAIL,notalk,notalk
+1998,the truman show,thetrumanshow,132,149,-0.034068136272545235,FAIL,notalk,notalk-disagree
+2010,incendies,incendies,300,253,0.09418837675350711,,,
+1939,the wizard of oz,thewizardofoz,119,241,-0.24448897795591185,,,
+2008,slumdog millionaire,slumdogmillionaire,99,191,-0.18436873747494986,FAIL,notalk,notalk
+2007,no country for old men,nocountryforoldmen,244,75,0.33867735470941873,FAIL,dubious,dubious
+1999,the boondock saints,theboondocksaints,254,250,0.008016032064128265,FAIL,nowomen,nowomen-disagree
+2009,the secret in their eyes,thesecretintheireyes,265,198,0.1342685370741482,,,
+2016,lion,lion,170,332,-0.3246492985971944,,,
+2017,baahubali 2: the conclusion,baahubali2theconclusion,1170,343,1.6573146292585168,,,
+2015,the revenant,therevenant,214,129,0.1703406813627254,,,
+2004,million dollar baby,milliondollarbaby,163,162,0.002004008016032066,PASS,ok,ok
+2005,babam ve oglum,babamveoglum,526,291,0.4709418837675351,,,
+1963,the great escape,thegreatescape,479,174,0.6112224448897795,,,
+1948,bicycle thieves,bicyclethieves,458,202,0.5130260521042084,,,
+2004,harry potter and the prisoner of azkaban,harrypotterandtheprisonerofazkaban,72,339,-0.5350701402805611,PASS,ok,ok
+2006,blood diamond,blooddiamond,172,212,-0.08016032064128253,FAIL,notalk,notalk
+1993,the nightmare before christmas,thenightmarebeforechristmas,105,318,-0.42685370741482964,,,
+1974,chinatown,chinatown,360,158,0.404809619238477,,,
+2012,the perks of being a wallflower,theperksofbeingawallflower,108,232,-0.24849699398797598,,,
+1990,edward scissorhands,edwardscissorhands,67,357,-0.5811623246492986,PASS,ok,ok
+1949,the third man,thethirdman,484,224,0.5210420841683366,,,
+2003,big fish,bigfish,133,226,-0.18637274549098193,FAIL,notalk,notalk-disagree
+2013,rush,rush,252,172,0.16032064128256507,FAIL,notalk,notalk
+1954,dial m for murder,dialmformurder,352,233,0.23847695390781565,,,
+1995,before sunrise,beforesunrise,179,228,-0.09819639278557113,FAIL,nowomen,nowomen
+1940,rebecca,rebecca,250,350,-0.2004008016032065,,,
+1992,unforgiven,unforgiven,543,110,0.8677354709418837,,,
+1979,life of brian,lifeofbrian,266,179,0.17434869739478953,,,
+1998,the big lebowski,thebiglebowski,256,123,0.26653306613226446,FAIL,notalk,notalk-disagree
+1992,aladdin,aladdin,120,308,-0.376753507014028,FAIL,nowomen,nowomen
+2000,amores perros,amoresperros,260,225,0.0701402805611222,,,
+2007,the bourne ultimatum,thebourneultimatum,235,156,0.1583166332665331,,,
+2007,ratatouille,ratatouille,138,211,-0.14629258517034072,FAIL,nowomen,nowomen-disagree
+1996,fargo,fargo,230,164,0.13226452905811625,PASS,ok,ok-disagree
+1995,twelve monkeys,twelvemonkeys,238,163,0.15030060120240474,FAIL,notalk,notalk
+1965,for a few dollars more,forafewdollarsmore,792,142,1.3026052104208417,,,
+1980,raging bull,ragingbull,599,119,0.9619238476953909,FAIL,notalk,notalk
+2005,serenity,serenity,208,295,-0.17434869739478953,PASS,ok,ok
+1967,cool hand luke,coolhandluke,539,215,0.6492985971943888,,,
+1969,butch cassidy and the sundance kid,butchcassidyandthesundancekid,421,231,0.3807615230460921,,,
+1957,the bridge on the river kwai,thebridgeontheriverkwai,581,180,0.8036072144288577,,,
+1988,rain man,rainman,182,217,-0.0701402805611222,FAIL,notalk,notalk
+1965,the sound of music,thesoundofmusic,101,516,-0.8316633266533067,,,
+1957,the seventh seal,theseventhseal,462,223,0.47895791583166336,,,
+1993,in the name of the father,inthenameofthefather,408,268,0.28056112224448904,,,
+2014,wild tales,wildtales,323,282,0.0821643286573146,,,
+1939,mr. smith goes to washington,mrsmithgoestowashington,466,297,0.33867735470941884,,,
+2006,the pursuit of happyness,thepursuitofhappyness,185,220,-0.07014028056112231,FAIL,nowomen,nowomen-disagree
+1995,casino,casino,419,136,0.5671342685370742,FAIL,men,men-disagree
+1987,the princess bride,theprincessbride,136,298,-0.3246492985971945,FAIL,men,men-disagree
+1950,rashomon,rashomon,626,185,0.8837675350701404,,,
+2008,iron man,ironman,140,244,-0.20841683366733466,FAIL,men,men-disagree
+1975,dog day afternoon,dogdayafternoon,417,252,0.3306613226452906,,,
+2014,pk,pk,646,246,0.8016032064128258,,,
+2005,sin city,sincity,231,148,0.16633266533066138,PASS,ok,ok-disagree
+1954,on the waterfront,onthewaterfront,546,237,0.6192384769539079,,,
+1982,gandhi,gandhi,370,221,0.2985971943887775,,,
+2017,call me by your name,callmebyyourname,347,528,-0.36272545090180364,,,
+2011,x: first class,xfirstclass,157,248,-0.1823647294589178,,,
+1948,the treasure of the sierra madre,thetreasureofthesierramadre,786,230,1.1142284569138274,,,
+2014,kingsman: the secret service,kingsmanthesecretservice,174,259,-0.1703406813627254,,,
+2012,life of pi,lifeofpi,152,257,-0.21042084168336672,FAIL,notalk,notalk-disagree
+2016,captain america: civil war,captainamericacivilwar,215,265,-0.1002004008016032,,,
+2005,harry potter and the goblet of fire,harrypotterandthegobletoffire,96,431,-0.6713426853707415,FAIL,notalk,notalk-disagree
+2004,the notebook,thenotebook,63,452,-0.779559118236473,FAIL,dubious,dubious
+1976,rocky,rocky,442,132,0.62124248496994,FAIL,notalk,notalk
+2013,about time,abouttime,189,269,-0.16032064128256518,PASS,ok,ok-disagree
+1977,annie hall,anniehall,289,218,0.14228456913827658,PASS,ok,ok
+2003,mystic river,mysticriver,245,219,0.05210420841683372,PASS,ok,ok
+2011,the girl with the dragon tattoo,thegirlwiththedragontattoo,216,222,-0.012024048096192397,FAIL,notalk,notalk-disagree
+1992,scent of a woman,scentofawoman,276,255,0.04208416833667339,,,
+2007,atonement,atonement,139,366,-0.45490981963927846,PASS,ok,ok
+2011,the artist,theartist,197,325,-0.25651302605210424,FAIL,notalk,notalk-disagree
+2014,big hero 6,bighero6,129,462,-0.6673346693386774,,,
+1986,platoon,platoon,490,176,0.6292585170340681,FAIL,nowomen,nowomen
+1984,nausicaa of the valley of the wind,nausicaaofthevalleyofthewind,378,301,0.15430861723446887,,,
+1973,the exorcist,theexorcist,309,178,0.26252505010020033,PASS,ok,ok
+1925,the gold rush,thegoldrush,684,306,0.7575150300601202,,,
+1953,roman holiday,romanholiday,206,426,-0.440881763527054,,,
+1982,the thing,thething,528,146,0.7655310621242486,,,
+1984,the terminator,theterminator,318,150,0.3366733466933868,FAIL,men,men-disagree
+1985,the breakfast club,thebreakfastclub,137,391,-0.5090180360721442,,,
+2007,persepolis,persepolis,291,477,-0.37274549098196386,PASS,ok,ok
+2004,before sunset,beforesunset,263,240,0.04609218436873752,FAIL,nowomen,nowomen
+1959,ben-hur,benhur,481,227,0.5090180360721442,,,
+1961,judgment at nuremberg,judgmentatnuremberg,752,375,0.7555110220440883,,,
+2013,the hunger games: catching fire,thehungergamescatchingfire,83,525,-0.8857715430861723,PASS,ok,ok
+2004,the incredibles,theincredibles,222,208,0.028056112224448815,PASS,ok,ok-disagree
+2000,remember the titans,rememberthetitans,312,346,-0.06813627254509025,FAIL,notalk,notalk-disagree
+2001,shrek,shrek,143,323,-0.36072144288577146,FAIL,notalk,notalk-disagree
+1934,it happened one night,ithappenedonenight,366,424,-0.11623246492985972,,,
+2001,harry potter and the sorcerer’s stone,harrypotterandthesorcerersstone,88,530,-0.8857715430861723,,,
+2006,casino royale,casinoroyale,282,200,0.1643286573146292,FAIL,notalk,notalk
+2014,edge of tomorrow,edgeoftomorrow,293,203,0.18036072144288584,,,
+2014,how to train your dragon 2,howtotrainyourdragon2,186,395,-0.4188376753507014,,,
+1941,the maltese falcon,themaltesefalcon,541,271,0.5410821643286573,,,
+2014,birdman or (the unexpected virtue of ignorance),birdmanortheunexpectedvirtueofignorance,299,168,0.26252505010020044,,,
+1974,young frankenstein,youngfrankenstein,443,334,0.218436873747495,FAIL,men,men
+1957,wild strawberries,wildstrawberries,609,329,0.5611222444889781,,,
+2001,ocean’s eleven,oceanseleven,221,262,-0.0821643286573146,,,
+2004,shaun of the dead,shaunofthedead,233,261,-0.05611222444889774,PASS,ok,ok-disagree
+1967,the graduate,thegraduate,285,254,0.06212424849699405,,,
+2006,the fall,thefall,223,594,-0.7434869739478958,,,
+1995,la haine,lahaine,561,276,0.5711422845691383,,,
+2006,little miss sunshine,littlemisssunshine,149,349,-0.4008016032064128,PASS,ok,ok
+2003,dogville,dogville,328,365,-0.07414829659318634,,,
+2015,the hateful eight,thehatefuleight,411,171,0.4809619238476954,,,
+2005,pride & prejudice,prideprejudice,68,754,-1.374749498997996,,,
+2014,nightcrawler,nightcrawler,380,173,0.41482965931863724,,,
+1990,dances with wolves,danceswithwolves,375,264,0.22244488977955912,,,
+1986,castle in the sky,castleinthesky,379,310,0.13827655310621245,,,
+2010,tangled,tangled,93,599,-1.0140280561122246,PASS,ok,ok
+1999,the iron giant,theirongiant,418,312,0.2124248496993988,FAIL,nowomen,nowomen-disagree
+2000,in the mood for love,inthemoodforlove,358,423,-0.13026052104208408,,,
+2016,hidden figures,hiddenfigures,180,651,-0.9438877755511021,,,
+2008,yip man,yipman,744,214,1.062124248496994,,,
+1951,strangers on a train,strangersonatrain,478,371,0.21442885771543085,,,
+1948,rope,rope,503,369,0.26853707414829653,,,
+2009,moon,moon,350,284,0.13226452905811625,FAIL,notalk,notalk-disagree
+2016,manchester by the sea,manchesterbythesea,427,243,0.3687374749498997,,,
+1951,a streetcar named desire,astreetcarnameddesire,348,448,-0.2004008016032064,,,
+1986,ferris bueller’s day off,ferrisbuellersdayoff,255,303,-0.09619238476953917,,,
+2001,mulholland drive,mulhollanddrive,349,242,0.21442885771543096,,,
+2014,captain america: the winter soldier,captainamericathewintersoldier,204,316,-0.22444889779559107,,,
+2009,district 9,district9,324,193,0.26252505010020044,FAIL,notalk,notalk-disagree
+1982,blade runner,bladerunner,341,197,0.2885771543086173,FAIL,notalk,notalk
+1999,magnolia,magnolia,444,194,0.501002004008016,FAIL,notalk,notalk-disagree
+1985,brazil,brazil,554,287,0.5350701402805612,PASS,ok,ok
+2002,the bourne identity,thebourneidentity,298,256,0.08416833667334678,FAIL,notalk,notalk
+2002,hero,hero,492,355,0.2745490981963927,,,
+2005,cinderella man,cinderellaman,495,286,0.4188376753507014,FAIL,men,men
+2000,"crouching tiger, hidden dragon",crouchingtigerhiddendragon,354,313,0.08216432865731471,,,
+1999,toy story 2,toystory2,249,266,-0.03406813627254501,FAIL,notalk,notalk-disagree
+2013,star trek: into darkness,startrekintodarkness,191,417,-0.4529058116232465,FAIL,notalk,notalk-disagree
+1968,rosemary’s baby,rosemarysbaby,343,304,0.07815631262525047,,,
+1946,notorious,notorious,500,450,0.1002004008016032,,,
+1976,network,network,720,273,0.8957915831663327,PASS,ok,ok
+2016,rogue one,rogueone,283,337,-0.10821643286573146,,,
+1997,children of heaven,childrenofheaven,678,519,0.3186372745490982,,,
+2007,hot fuzz,hotfuzz,259,331,-0.14428857715430865,FAIL,notalk,notalk-disagree
+1983,a christmas story,achristmasstory,415,377,0.07615230460921851,,,
+2004,crash,crash,226,336,-0.22044088176352705,PASS,ok,ok
+2010,harry potter and the deathly hallows: part 1,harrypotterandthedeathlyhallowspart1,104,696,-1.1863727454909818,PASS,ok,ok-disagree
+1995,dilwale dulhania le jayenge,dilwaledulhanialejayenge,902,437,0.9318637274549098,,,
+2013,captain phillips,captainphillips,270,340,-0.14028056112224452,FAIL,notalk,notalk
+2005,walk the line,walktheline,224,418,-0.3887775551102204,PASS,ok,ok
+2017,guardians of the galaxy vol. 2,guardiansofthegalaxyvol2,241,446,-0.4108216432865731,,,
+2007,elite squad,elitesquad,974,307,1.3366733466933869,,,
+1982,e.t. the extra-terrestrial,ettheextraterrestrial,246,370,-0.24849699398797598,FAIL,dubious,dubious
+2000,dancer in the dark,dancerinthedark,400,447,-0.094188376753507,PASS,ok,ok
+1966,persona,persona,548,400,0.29659318637274557,,,
+2009,the girl with the dragon tattoo,thegirlwiththedragontattoo,269,412,-0.28657314629258523,FAIL,dubious,dubious-disagree
+2008,let the right one in,lettherightonein,384,270,0.22845691382765532,,,
+2014,boyhood,boyhood,335,238,0.1943887775551103,,,
+2012,barfi!,barfi,877,440,0.875751503006012,,,
+2009,mr. nobody,mrnobody,253,434,-0.36272545090180364,,,
+1993,true romance,trueromance,557,280,0.5551102204408818,,,
+2010,my name is khan,mynameiskhan,535,517,0.03607214428857719,,,
+2009,the hangover,thehangover,258,247,0.022044088176352616,FAIL,notalk,notalk
+1926,the general,thegeneral,891,381,1.0220440881763526,,,
+2012,moonrise kingdom,moonrisekingdom,232,386,-0.30861723446893785,PASS,ok,ok
+2012,les miserables,lesmiserables,168,499,-0.6633266533066132,PASS,ok,ok-disagree
+1979,stalker,stalker,767,347,0.8416833667334669,,,
+2017,baby driver,babydriver,389,305,0.16833667334669333,,,
+2012,silver linings playbook,silverliningsplaybook,237,251,-0.028056112224448815,PASS,ok,ok
+2016,contratiempo,contratiempo,589,561,0.05611222444889785,,,
+2004,the sea inside,theseainside,428,507,-0.158316633266533,,,
+2006,apocalypto,apocalypto,364,373,-0.018036072144288595,,,
+1959,the 400 blows,the400blows,637,374,0.5270541082164328,,,
+2017,get out,getout,344,314,0.060120240480961984,,,
+1988,akira,akira,882,267,1.2324649298597197,FAIL,notalk,notalk
+1964,fistful of dollars,fistfulofdollars,950,278,1.346693386773547,,,
+2009,the blind side,theblindside,198,488,-0.5811623246492985,FAIL,men,men
+2008,taken,taken,257,315,-0.11623246492985972,PASS,ok,ok
+2008,the curious case of benjamin button,thecuriouscaseofbenjaminbutton,211,320,-0.218436873747495,FAIL,dubious,dubious-disagree
+2007,the diving bell and the butterfly,thedivingbellandthebutterfly,432,397,0.0701402805611222,,,
+2011,drive,drive,361,207,0.30861723446893796,FAIL,dubious,dubious-disagree
+2003,"spring, summer, fall, winter… and spring",springsummerfallwinterandspring,572,416,0.3126252505010019,,,
+1987,the untouchables,theuntouchables,604,300,0.6092184368737474,,,
+1944,arsenic and old lace,arsenicandoldlace,464,617,-0.3066132264529057,,,
+1996,sling blade,slingblade,715,464,0.5030060120240482,,,
+2008,the boy in the striped pajamas,theboyinthestripedpajamas,207,601,-0.7895791583166334,,,
+2002,talk to her,talktoher,394,430,-0.07214428857715427,,,
+1979,manhattan,manhattan,508,359,0.2985971943887775,,,
+2013,short term 12,shortterm12,474,529,-0.11022044088176353,,,
+2015,straight outta compton,straightouttacompton,513,459,0.10821643286573135,,,
+2010,despicable me,despicableme,145,543,-0.7975951903807614,PASS,ok,ok-disagree
+2000,almost famous,almostfamous,320,322,-0.004008016032064132,PASS,ok,ok
+1982,pink floyd: the wall,pinkfloydthewall,656,510,0.29258517034068143,,,
+2006,children of men,childrenofmen,355,263,0.18436873747494997,PASS,ok,ok
+2014,ex machina,exmachina,362,272,0.18036072144288573,,,
+1997,boogie nights,boogienights,660,213,0.8957915831663328,FAIL,dubious,dubious-disagree
+2013,queen,queen,1005,484,1.0440881763527052,,,
+1973,papillon,papillon,831,354,0.9559118236472947,,,
+2010,elite squad: the enemy within,elitesquadtheenemywithin,1116,352,1.5310621242484967,,,
+2014,the theory of everything,thetheoryofeverything,173,591,-0.8376753507014029,,,
+1940,the philadelphia story,thephiladelphiastory,393,766,-0.74749498997996,,,
+1940,the grapes of wrath,thegrapesofwrath,728,403,0.6513026052104208,,,
+1971,harold and maude,haroldandmaude,436,685,-0.498997995991984,,,
+2016,captain fantastic,captainfantastic,363,505,-0.28456913827655306,,,
+1993,what’s eating gilbert grape,whatseatinggilbertgrape,202,574,-0.7454909819639277,,,
+2003,memories of murder,memoriesofmurder,916,330,1.1743486973947896,,,
+2009,avatar,avatar,228,296,-0.13627254509018039,FAIL,men,men-disagree
+2002,infernal affairs,infernalaffairs,875,292,1.1683366733466933,,,
+1994,three colors: red,threecolorsred,644,415,0.4589178356713427,,,
+1976,all the president’s men,allthepresidentsmen,755,420,0.6713426853707415,,,
+2016,the handmaiden,thehandmaiden,595,549,0.09218436873747504,,,
+1955,the night of the hunter,thenightofthehunter,737,471,0.5330661322645289,,,
+1995,underground,underground,751,541,0.42084168336673344,,,
+1990,the godfather: part iii,thegodfatherpartiii,440,358,0.1643286573146292,,,
+1984,"paris, texas",paristexas,736,455,0.56312625250501,,,
+2010,the fighter,thefighter,452,283,0.33867735470941884,FAIL,men,men
+1966,who’s afraid of virginia woolf?,whosafraidofvirginiawoolf,537,565,-0.05611222444889785,,,
+2014,the fault in our stars,thefaultinourstars,187,513,-0.6533066132264529,,,
+2005,brokeback mountain,brokebackmountain,162,611,-0.8997995991983967,FAIL,notalk,notalk
+2007,chak de! india,chakdeindia,1278,317,1.9258517034068137,,,
+2006,lucky number slevin,luckynumberslevin,416,363,0.1062124248496995,FAIL,notalk,notalk-disagree
+1991,jfk,jfk,847,324,1.0480961923847696,,,
+1998,the legend of 1900,thelegendof1900,608,607,0.002004008016031955,,,
+2017,the greatest showman,thegreatestshowman,272,972,-1.402805611222445,,,
+2000,"o brother, where art thou?",obrotherwhereartthou,401,387,0.028056112224448926,FAIL,nowomen,nowomen-disagree
+2010,the social network,thesocialnetwork,414,201,0.42685370741482975,FAIL,notalk,notalk-disagree
+1997,gattaca,gattaca,356,390,-0.06813627254509014,FAIL,notalk,notalk-disagree
+2012,argo,argo,243,409,-0.33266533066132264,PASS,ok,ok-disagree
+1993,groundhog day,groundhogday,457,210,0.4949899799599199,FAIL,men,men-disagree
+1962,the manchurian candidate,themanchuriancandidate,849,506,0.6873747494989979,,,
+1984,this is spinal tap,thisisspinaltap,762,348,0.8296593186372746,,,
+2013,frozen,frozen,130,692,-1.12625250501002,PASS,ok,ok
+1990,misery,misery,402,466,-0.12825651302605212,,,
+2007,the man from earth,themanfromearth,764,290,0.9498997995991985,FAIL,notalk,notalk
+1968,planet of the apes,planetoftheapes,789,294,0.9919839679358717,,,
+2000,cast away,castaway,314,328,-0.028056112224448926,FAIL,notalk,notalk
+1998,"black cat, white cat",blackcatwhitecat,676,605,0.14228456913827636,,,
+1971,willy wonka & the chocolate factory,willywonkathechocolatefactory,333,496,-0.32665330661322645,,,
+1985,ran,ran,1207,234,1.9498997995991982,,,
+2008,changeling,changeling,296,405,-0.218436873747495,PASS,ok,ok
+2006,rang de basanti,rangdebasanti,1218,236,1.967935871743487,PASS,ok,ok
+1989,glory,glory,768,427,0.683366733466934,,,
+1989,back to the future part ii,backtothefuturepartii,374,338,0.07214428857715427,PASS,ok,ok
+2004,the bourne supremacy,thebournesupremacy,413,333,0.16032064128256518,FAIL,men,men
+2006,letters from iwo jima,lettersfromiwojima,791,364,0.8557114228456915,FAIL,notalk,notalk
+1952,high noon,highnoon,890,407,0.9679358717434868,,,
+1997,the fifth element,thefifthelement,247,546,-0.5991983967935872,FAIL,notalk,notalk-disagree
+2017,wonder woman,wonderwoman,196,706,-1.0220440881763526,,,
+1995,ghost in the shell,ghostintheshell,917,361,1.1142284569138277,,,
+1961,yojimbo,yojimbo,1281,235,2.096192384769539,,,
+2015,bahubali: the beginning,bahubalithebeginning,1491,393,2.2004008016032066,,,
+2007,zodiac,zodiac,435,275,0.32064128256513025,,,
+1990,awakenings,awakenings,467,559,-0.18436873747494986,,,
+1993,three colors: blue,threecolorsblue,552,603,-0.10220440881763526,,,
+1950,harvey,harvey,645,680,-0.0701402805611222,,,
+2014,fury,fury,449,341,0.21643286573146292,,,
+1993,philadelphia,philadelphia,277,644,-0.7354709418837676,,,
+1998,the celebration,thecelebration,785,404,0.7635270541082164,,,
+1946,the big sleep,thebigsleep,750,489,0.5230460921843688,,,
+1987,wings of desire,wingsofdesire,622,638,-0.03206412825651306,,,
+2016,hunt for the wilderpeople,huntforthewilderpeople,605,701,-0.19238476953907813,,,
+1994,chungking express,chungkingexpress,712,600,0.22444889779559118,,,
+2012,kahaani,kahaani,1212,478,1.4709418837675352,,,
+1958,touch of evil,touchofevil,1008,356,1.3066132264529058,,,
+2004,finding neverland,findingneverland,240,570,-0.6613226452905812,PASS,ok,ok
+2004,the machinist,themachinist,330,438,-0.21643286573146292,,,
+1987,empire of the sun,empireofthesun,530,668,-0.2765531062124247,,,
+2012,wreck-it ralph,wreckitralph,281,458,-0.35470941883767537,PASS,ok,ok-disagree
+1968,night of the living dead,nightofthelivingdead,837,385,0.9058116232464929,,,
+1993,carlito’s way,carlitosway,876,326,1.1022044088176353,,,
+1996,the bandit,thebandit,1181,362,1.6412825651302607,,,
+1997,the game,thegame,441,367,0.14829659318637278,FAIL,notalk,notalk
+1946,the best years of our lives,thebestyearsofourlives,772,604,0.3366733466933869,,,
+2004,man on fire,manonfire,406,444,-0.0761523046092184,,,
+2014,the lego movie,thelegomovie,397,380,0.034068136272545124,,,
+1964,mary poppins,marypoppins,234,806,-1.1462925851703405,,,
+1959,anatomy of a murder,anatomyofamurder,864,515,0.6993987975951905,,,
+1999,being john malkovich,beingjohnmalkovich,392,383,0.018036072144288595,PASS,ok,ok
+2015,the big short,thebigshort,515,299,0.43286573146292573,,,
+2008,the wrestler,thewrestler,621,289,0.6653306613226452,FAIL,notalk,notalk
+1954,la strada,lastrada,748,623,0.25050100200400816,,,
+1999,all about my mother,allaboutmymother,405,712,-0.6152304609218436,,,
+2007,3:10 to yuma,310toyuma,511,456,0.11022044088176342,FAIL,nowomen,nowomen
+1975,barry lyndon,barrylyndon,991,281,1.4228456913827654,FAIL,notalk,notalk
+2009,fantastic mr. fox,fantasticmrfox,423,445,-0.044088176352705455,FAIL,notalk,notalk
+1922,nosferatu,nosferatu,716,468,0.49699398797595185,,,
+2017,wonder,wonder,577,862,-0.5711422845691383,,,
+2006,the last king of scotland,thelastkingofscotland,455,535,-0.16032064128256507,,,
+1980,the blues brothers,thebluesbrothers,687,372,0.6312625250501003,FAIL,notalk,notalk
+2012,skyfall,skyfall,295,401,-0.2124248496993988,FAIL,dubious,dubious-disagree
+1997,as good as it gets,asgoodasitgets,367,396,-0.05811623246492992,PASS,ok,ok
+1955,diabolique,diabolique,910,534,0.753507014028056,,,
+2016,kubo and the two strings,kuboandthetwostrings,600,616,-0.03206412825651306,,,
+1972,solaris,solaris,996,429,1.1362725450901805,,,
+2013,before midnight,beforemidnight,453,449,0.008016032064128265,,,
+1989,kiki’s delivery service,kikisdeliveryservice,357,674,-0.6352705410821642,,,
+1994,ed wood,edwood,545,384,0.3226452905811623,PASS,ok,ok
+1960,la dolce vita,ladolcevita,793,512,0.56312625250501,,,
+1993,the fugitive,thefugitive,569,392,0.35470941883767537,FAIL,men,men
+1967,bonnie and clyde,bonnieandclyde,648,501,0.2945891783567136,,,
+1996,primal fear,primalfear,426,578,-0.3046092184368737,,,
+2002,harry potter and the chamber of secrets,harrypotterandthechamberofsecrets,142,831,-1.3807615230460923,PASS,ok,ok-disagree
+1999,the insider,theinsider,863,378,0.9719438877755511,,,
+2004,3-iron,3iron,651,719,-0.1362725450901805,,,
+1965,doctor zhivago,doctorzhivago,714,577,0.2745490981963927,,,
+1927,sunrise,sunrise,995,633,0.7254509018036073,,,
+2009,zombieland,zombieland,329,414,-0.1703406813627255,PASS,ok,ok-disagree
+2001,lagaan: once upon a time in india,lagaanonceuponatimeinindia,1190,293,1.7975951903807612,,,
+1993,tombstone,tombstone,794,526,0.5370741482965931,PASS,ok,ok
+2008,departures,departures,731,613,0.23647294589178358,,,
+2009,(500) days of summer,500daysofsummer,310,345,-0.07014028056112231,FAIL,notalk,notalk-disagree
+1969,midnight cowboy,midnightcowboy,818,502,0.6332665330661322,,,
+1961,breakfast at tiffany’s,breakfastattiffanys,210,802,-1.1863727454909818,,,
+2007,harry potter and the order of the phoenix,harrypotterandtheorderofthephoenix,147,837,-1.382765531062124,PASS,ok,ok-disagree
+2004,the butterfly effect,thebutterflyeffect,303,428,-0.25050100200400793,FAIL,men,men-disagree
+2003,21 grams,21grams,410,500,-0.18036072144288573,FAIL,dubious,dubious
+2016,doctor strange,doctorstrange,287,556,-0.5390781563126251,,,
+2009,harry potter and the half-blood prince,harrypotterandthehalfbloodprince,160,846,-1.374749498997996,PASS,ok,ok-disagree
+1953,stalag 17,stalag17,1059,642,0.8356713426853708,,,
+1962,what ever happened to baby jane?,whateverhappenedtobabyjane,585,793,-0.4168336673346693,,,
+2007,once,once,463,487,-0.048096192384769476,,,
+2013,mandariinid,mandariinid,666,865,-0.3987975951903806,,,

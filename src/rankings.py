@@ -35,6 +35,18 @@ def normalize_title(title):
     title = title.lower()
     return re.sub(r'(\W+)', '', title)
 
+def add_bechdel_params(movie_df):
+    url = "https://raw.githubusercontent.com/fivethirtyeight/data/master/bechdel/movies.csv"
+    bechdel_df = pd.read_csv(url, encoding='latin-1')
+    bechdel_df['title_normalized'] = bechdel_df['title'].apply(normalize_title)
+    bechdel_df['year'] = bechdel_df['year'].astype(str)
+
+
+    merged_df = pd.merge(movie_df, bechdel_df[['year', 'title_normalized', 'binary', 'clean_test', 'test']], 
+                     on=['year', 'title_normalized'], how='left')
+    merged_df.to_csv('data/bechdel_table_ready.csv', index=False)
+    return merged_df
+
 def parse_movies_with_gender_score(input_list):    
 
     parsed_data = []
@@ -50,6 +62,7 @@ def parse_movies_with_gender_score(input_list):
         parsed_data.append([year, title, title_normalized, ranking_women, ranking_men, gender_score])
 
     df = pd.DataFrame(parsed_data, columns= ['year', 'title', 'title_normalized', 'ranking_women', 'ranking_men', 'gender_score'])
+    add_bechdel_params(df)
     return df
 
 
